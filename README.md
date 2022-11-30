@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @WojciechFlak
+- 👀 I’m interested in ML and AI.
+- 🌱 I’m currently learning Pandas, Numpy and TensorFlow related liblaries in Python.
+- 💞️ I’m looking to collaborate on cloud recognition project. 
+- 📫 wojciech-flak@wp.pl
